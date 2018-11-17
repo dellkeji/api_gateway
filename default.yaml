@@ -1,0 +1,16 @@
+version: "v0.0.1"
+debug: true
+server_configure:
+  host: "127.0.0.1"
+  port: 9999
+database_configure:
+  type: mysql
+  host: 127.0.0.1
+  port: 3306
+  user: root
+  password: "157632"
+  db_name: api_temp_for_biz
+  charset: utf8
+  max_idle_conns: 10
+  max_open_conns: 100
+channel_size: 10000

@@ -1,0 +1,5 @@
+2018-11-17 18:03:11.091this is file debub test
+2018-11-17 18:05:26.623this is file debub test
+2018-11-17 18:14:35.481 DEBUG [testing.go/testing.tRunner:777] this is file debub test
+2018-11-17 18:14:35.481 WARN [testing.go/testing.tRunner:777] this is file warn test
+2018-11-17 21:17:29.985 DEBUG [testing.go/testing.tRunner:777] this is file debub test
