@@ -1,12 +1,12 @@
-# Blueking API Gateway
+# API Gateway
 ---------------------
 
 ## Description
-Blueking API Gateway is a service for backend microservice. 
+API Gateway is a service for backend microservice. 
 
 ## Feature
 - Router Map
-- Auth for blueking
+- Auth
 - Ratelimit for different metric
 - LoadBlance for different a group of resource
 - Resource Management
