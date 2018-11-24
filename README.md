@@ -10,7 +10,7 @@ API Gateway is a service for backend microservice.
 - Ratelimit for different metric
 - LoadBlance for different a group of resource
 - Resource Management
-...
+- ...
 
 
 ## Relate pkg
