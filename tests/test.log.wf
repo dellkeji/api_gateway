@@ -1,2 +1,4 @@
 this is file warn test
 2018-11-17 21:17:29.985 WARN [testing.go/testing.tRunner:777] this is file warn test
+2018-11-20 09:53:05.653 WARN [testing.go/testing.tRunner:777] this is file warn test
+2018-11-20 09:55:35.599 WARN [testing.go/testing.tRunner:777] this is file warn test

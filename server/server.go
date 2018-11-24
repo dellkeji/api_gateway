@@ -90,6 +90,7 @@ func ProxyHandler(ctx *gin.Context) {
 	db := storage.GetDBSession().DB
 	db.SingularTable(true)
 
+	// TODO: set select for exiting gorutine
 	// filter api
 	PrepareRequest(ctx, db)
 
